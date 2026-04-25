@@ -8,7 +8,7 @@
 ---
 
 ## Deskripsi Aplikasi
-Aplikasi ini merupakan sistem **Absensi Karyawan berbasis web** yang dibangun menggunakan framework Laravel. Aplikasi ini bertujuan untuk mempermudah proses pencatatan kehadiran karyawan secara digital, sehingga lebih efisien dibandingkan metode manual.
+Aplikasi ini merupakan sistem **Absensi Karyawan berbasis web** yang dibangun menggunakan framework Laravel. Aplikasi ini bertujuan mempermudah proses pencatatan kehadiran karyawan secara digital, sehingga lebih efisien dibandingkan metode manual.
 
 ---
 
